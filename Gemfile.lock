@@ -170,7 +170,7 @@ DEPENDENCIES
   mysql2 (>= 0.3.18, < 0.5)
   puma (~> 3.0)
   rails (~> 5.0.2)
-  rspec-rails (~> 3.5)
+  rspec-rails
   shoulda-matchers (~> 3.1)
   spring
   spring-watcher-listen (~> 2.0.0)
